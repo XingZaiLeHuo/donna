@@ -20,6 +20,7 @@ import java.security.cert.CertificateException;
  * @Author：大漠知秋
  * @Description：Eureka Client 针对 Eureka Server 的 HTTPS 请求配置
  * @CreateDate：4:13 PM 2018/10/23
+ * 这是大神的代码我只是做个测试测试git功能的完善
  */
 @Data
 @Configuration
